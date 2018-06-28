@@ -1,0 +1,1 @@
+from gs1_crawler.services.korean_net import KoreanNet
